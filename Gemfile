@@ -4,7 +4,7 @@ gem "sinatra", "1.4.4"
 gem "hashie"
 gem "octokit", "~> 2.0"
 # using SSH syntax for AwesomePrint gem
-gem "awesome_print", git => "eleetyson@gmail.com:eleetyson/github.com/awesome-print/awesome_print/.git"
+gem "awesome_print"
 
 # alternative syntax: gem "pry", group: :development
 group :development do
